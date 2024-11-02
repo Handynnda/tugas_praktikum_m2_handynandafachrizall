@@ -53,7 +53,7 @@
                 android:layout_width="120dp"
                 android:layout_height="30dp"
                 android:layout_weight="1"
-                android:text="PANJANG                 :"
+                android:text="PANJANG"
                 android:textSize="18sp" />
 
             <EditText
@@ -80,7 +80,7 @@
                 android:layout_width="120dp"
                 android:layout_height="30dp"
                 android:layout_weight="1"
-                android:text="LEBAR                      :"
+                android:text="LEBAR"
                 android:textSize="18sp" />
 
             <EditText
@@ -107,7 +107,7 @@
                 android:layout_width="120dp"
                 android:layout_height="30dp"
                 android:layout_weight="1"
-                android:text="HASIL                         :"
+                android:text="HASIL"
                 android:textSize="18sp" />
 
             <EditText

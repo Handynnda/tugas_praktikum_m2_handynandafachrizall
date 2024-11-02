@@ -26,7 +26,7 @@
                 android:layout_marginTop="50dp"
                 android:text="PILIH"
                 android:textColor="@color/design_default_color_primary_variant"
-                android:textSize="30sp"
+                android:textSize="35sp"
                 android:textStyle="bold" />
 
             <TextView
@@ -36,7 +36,7 @@
                 android:layout_marginTop="8dp"
                 android:text="BANGUN DATAR"
                 android:textColor="@color/design_default_color_primary_variant"
-                android:textSize="15sp"
+                android:textSize="25sp"
                 android:textStyle="bold" />
 
             <View
@@ -64,7 +64,7 @@
                     android:id="@+id/Bsegitiga"
                     android:layout_width="140dp"
                     android:layout_height="70dp"
-                    android:backgroundTint="@color/design_default_color_secondary"
+                    android:backgroundTint="@color/design_default_color_primary_variant"
                     android:text="SEGITIGA"
                     android:textSize="10sp"
                     android:textStyle="bold" />
@@ -74,7 +74,7 @@
                     android:layout_width="140dp"
                     android:layout_height="70dp"
                     android:layout_marginTop="15dp"
-                    android:backgroundTint="@color/design_default_color_secondary"
+                    android:backgroundTint="@color/design_default_color_primary_variant"
                     android:text="PERSEGI"
                     android:textSize="10sp"
                     android:textStyle="bold" />
@@ -84,7 +84,7 @@
                     android:layout_width="140dp"
                     android:layout_height="70dp"
                     android:layout_marginTop="15dp"
-                    android:backgroundTint="@color/design_default_color_secondary"
+                    android:backgroundTint="@color/design_default_color_primary_variant"
                     android:text="TRAPESIUM"
                     android:textSize="10sp"
                     android:textStyle="bold" />
@@ -94,7 +94,7 @@
                     android:layout_width="140dp"
                     android:layout_height="70dp"
                     android:layout_marginTop="15dp"
-                    android:backgroundTint="@color/design_default_color_secondary"
+                    android:backgroundTint="@color/design_default_color_primary_variant"
                     android:text="BELAH KETUPAT"
                     android:textSize="10sp"
                     android:textStyle="bold" />
@@ -111,7 +111,7 @@
                     android:id="@+id/Blingkaran"
                     android:layout_width="140dp"
                     android:layout_height="70dp"
-                    android:backgroundTint="@color/design_default_color_secondary"
+                    android:backgroundTint="@color/design_default_color_primary_variant"
                     android:text="LINGKARAN"
                     android:textSize="10sp"
                     android:textStyle="bold" />
@@ -121,7 +121,7 @@
                     android:layout_width="140dp"
                     android:layout_height="70dp"
                     android:layout_marginTop="15dp"
-                    android:backgroundTint="@color/design_default_color_secondary"
+                    android:backgroundTint="@color/design_default_color_primary_variant"
                     android:text="PERSEGI PANJANG"
                     android:textSize="10sp"
                     android:textStyle="bold" />
@@ -131,7 +131,7 @@
                     android:layout_width="140dp"
                     android:layout_height="70dp"
                     android:layout_marginTop="15dp"
-                    android:backgroundTint="@color/design_default_color_secondary"
+                    android:backgroundTint="@color/design_default_color_primary_variant"
                     android:text="LAYANG-LAYANG"
                     android:textSize="10sp"
                     android:textStyle="bold" />
@@ -141,7 +141,7 @@
                     android:layout_width="140dp"
                     android:layout_height="70dp"
                     android:layout_marginTop="15dp"
-                    android:backgroundTint="@color/design_default_color_secondary"
+                    android:backgroundTint="@color/design_default_color_primary_variant"
                     android:text="JAJAR GENJANG"
                     android:textSize="10sp"
                     android:textStyle="bold" />
