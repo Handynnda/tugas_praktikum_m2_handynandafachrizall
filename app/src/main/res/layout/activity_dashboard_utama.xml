@@ -64,7 +64,7 @@
                     android:id="@+id/Bsegitiga"
                     android:layout_width="140dp"
                     android:layout_height="70dp"
-                    android:backgroundTint="@color/black"
+                    android:backgroundTint="@color/design_default_color_primary_variant"
                     android:text="SEGITIGA"
                     android:textSize="10sp"
                     android:textStyle="bold" />
